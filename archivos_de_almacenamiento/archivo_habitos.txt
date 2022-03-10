@@ -1,0 +1,10 @@
+ENTRENAR,destildado
+PASEAR PERRA,destildado
+ESTUDIAR,destildado
+PROGRAMAR,destildado
+LEER ,destildado
+APRENDER ALGO,destildado
+ORDENAR,destildado
+ELONGAR,destildado
+ARREGLAR PARED,destildado
+BUSCAR TRABAJO,destildado

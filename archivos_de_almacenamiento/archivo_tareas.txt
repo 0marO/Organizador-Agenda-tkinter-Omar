@@ -1,0 +1,7 @@
+0,• ventana de estadisticas y grficos,• menu de limpiar todo y guardar todo,• diferentes colores para tareas ,• jerarqua de tareas modificable   , Guardar las tareas tachadas    [T],• clima,• pasar tareas del dia (calendario) a la tab actual,• bt pasar tareas dia actual ,• bt elmiar tareas hasta el día actual            ,• minimizar habitos,• desabilitar almanaque al abrir un dia             ,• al inicio, tab del da tiene que estar abierta.             
+1 
+2 
+3,• hacer fideos de verdura,• hacer nuevo cv,• buscar camisas,• indagar como hacer buen perfil linkedin,• practicar inglés (estudiar)             
+4, baar[T], barrer[T], lavar platos[T],• preparar mochila y bolso 
+5 
+6,• azul,• amarillo,• verde

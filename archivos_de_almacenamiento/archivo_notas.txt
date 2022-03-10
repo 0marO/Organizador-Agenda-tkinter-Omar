@@ -1,0 +1,15 @@
+
+- SACAR TURNO DERMATOLOGO.
+
+Del 14 al 18 de MARZO de 2022 se llevará a cabo la inscripción a materias.
+
+El 21 de MARZO iniciarán las clases del 1er. cuatrimestre de 2022.
+
+Lista de tareas para esta app: 
+- Desarrollar la ventana de estadisticas y gráficos del habit tracker.
+
+
+
+
+
+
