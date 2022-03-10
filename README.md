@@ -10,19 +10,28 @@ Bueno, en concreto la app te permite:
 
 - Crear y organizar tareas diarias para cada día de la semana, con orden de tareas y color de fondo de las mismas modificable.
 - Tachar y destachar tareas libremente con doble click o apretando el botón designado.
+- 
 ![image](https://user-images.githubusercontent.com/92110097/157689360-2f7ea8f6-9ba4-4e18-bf56-f076c4d41b7e.png)
+
+
 
 - Escribir notas libremente, en otra sección, como un .txt
 ![image](https://user-images.githubusercontent.com/92110097/157689871-da2cc6e8-8f63-4bf2-a708-8a590cd0eae6.png)
 
+
+
 - Saber la hora, fecha y clima actuales ( este ultimo dependiendo de la ip). 
-  El clima puede ser actualizado cada vez que se toca el botón "ruedita" a la izq del mismo
+ El clima puede ser actualizado cada vez que se toca el botón "ruedita" a la izq del mismo
+ 
   ![image](https://user-images.githubusercontent.com/92110097/157690083-f70fad82-df97-4e1c-acb7-05c30bf48ac3.png)
 
+  
   
 - Agrandar un hover, que habilita una agenda mensual de tareas ( para trámites o turnos médicos o lo que quieras)
 - Copiar esas mismas tareas mensuales y pegarlas en otros días asi como en las tareas semanales.
 ![image](https://user-images.githubusercontent.com/92110097/157691082-705c79b2-2fe0-4375-b2a1-edfac8c2ec44.png)
+
+
 
 - Trackear tus habitos diarios con un sencillo habit tracker que guarda la data de cada día, según realizaste cada uno o no.
   Cuando tenga tiempo voy a implementar una ventana con gráficos indicando la constancia de estos habitos.
